@@ -4,7 +4,7 @@ In random ball movementb is a ball is made to move in vertical direction in fixe
 
 STEPS TO RUN THE PROJECT
 
-Open the github link to run the simulation ball movement program
+Open the github link to run the random ball movement program
 
 FUTURE IMPROVEMENTS
 
