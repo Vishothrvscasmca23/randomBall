@@ -1,6 +1,6 @@
 ## Random-Ball
 
-In random ball movementb is a ball is made to move in vertical direction in fixed velocity.The ball moves right to left and wise versa which refers to bouncing. The ball is made to move X and Y axis
+In random ball movement is a ball is made to jump the container.The ball moves any direction of container and wise versa which refers to bouncing. The ball is made to jump the container.
 
 ## STEPS TO RUN THE PROJECT
 
